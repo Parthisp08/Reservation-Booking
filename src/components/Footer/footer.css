@@ -1,0 +1,39 @@
+.footer{
+    width: 100%;
+    max-width: 1024px;
+   font-size: 12px;
+   margin-top: 20px;
+}
+
+.fLists {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.fListItem {
+    list-style: none;
+    font-weight: 400;
+    font-size: 13px;
+    color: #0071c2;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.fListItem:hover {
+    color: #ff8000;
+}
+
+.fText {
+    width: 100%;
+    max-width: 1024px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.copyRightText {
+          color: #262626;
+}
